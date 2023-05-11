@@ -1,5 +1,5 @@
-### Hi there 👋
-- TODO
+### About Me 👋
+- Penetration Tester, CTF Player
 
 ### CTF Profiles
 ![alt text](https://www.hackthebox.com/badge/image/2111)<img src="https://tryhackme-badges.s3.amazonaws.com/dibsy0x.png" alt="TryHackMe">
