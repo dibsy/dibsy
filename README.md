@@ -11,3 +11,16 @@
 ### Certification
 - OSCP
 - GCPN
+
+### CTF Competition
+- Cisco Offensive Summit 2024 CTF by Immersive Labs - Rank 4th (Team)
+- HackTheBox Business CTF 2024 - Team Rank 7/940 Team : Cisco
+- HackTheBox Cyber Apocalypse - Team Rank 251/5694 : Team CS
+- HackTheBox Business CTF 2023 - Team Rank 45/980, Team : Cisco Systems
+- HackTheBox Cyber Apocalypse CTF 2023 - Team Rank 587/6483 Team : (Solo)
+- HackTheBox Business CTF 2022 - Team Rank 110, Team : Cisco Systems
+- HackTheBox Business CTF 2020 - Rank 12, Team : SundayParan01ds (SAP)
+- Advent of CTF 2020  - Rank 26 (Solo)
+- Virtual Secure Coding Tournament 2020 - Rank 6 (Solo)
+- 2nd Position in Hacker's Category in SAP CTF 2017
+- Teamed up with SundayParan01ds for various CTF events ( https://ctftime.org/team/39985 )
