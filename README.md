@@ -23,4 +23,4 @@
 - Advent of CTF 2020  - Rank 26 (Solo)
 - Virtual Secure Coding Tournament 2020 - Rank 6 (Solo)
 - 2nd Position in Hacker's Category in SAP CTF 2017
-- Teamed up with SundayParan01ds for various CTF events ( https://ctftime.org/team/39985 )
+- Teamed up with SundayParan01ds ( SAP CTF Team ) for various CTF events till 2021 ( https://ctftime.org/team/39985 )
